@@ -1,0 +1,19 @@
+body {
+    color : rgb(16, 104, 236);
+    background: rgb(237, 240, 241);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+input {
+    font-size: x-large;
+    font-weight: bold;
+    padding: 10px;
+    width: 75%;
+    border: none;
+    border-radius: 25px;
+    text-align: center;
+}
