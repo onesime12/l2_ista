@@ -1,6 +1,6 @@
 body {
-    color : rgb(16, 104, 236);
-    background: rgb(237, 240, 241);
+    color : rgb(0, 1, 10);
+    background: #e4e3ef;
     display: flex;
     justify-content: center;
     align-items: center;
